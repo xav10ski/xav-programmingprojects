@@ -1,5 +1,6 @@
 /*
- * Copyright 2017 Marc Liberatore.
+ * Submission by Xavier Wrenn (Student).
+ * Copyright 2017 Marc Liberatore (Instructor).
  */
 
 package log;
