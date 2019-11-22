@@ -1,7 +1,7 @@
 """    
 #
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Code made for the Hanscom Composite Squadron Cyberpatriot Team!
+Code made for the Hanscom Composite Squadron Cyberpatriot Team
 -Xavier Wrenn
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 #
@@ -509,20 +509,7 @@ def mainloop(_input_):
         Compiler(todo[(len('compiler ')):])
         #compiler <filename>
     
-    #"""
-    #
-    #NEW FUNCTIONS BELOW HERE
-    #
-    #"""
-    
-
- 
-        
-    #"""
-    #
-    #NEW FUNCTIONS ABOVE HERE
-    #
-    #"""
+   
     
     else:
         if run_admin == True:
